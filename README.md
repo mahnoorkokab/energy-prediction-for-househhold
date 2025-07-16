@@ -73,6 +73,6 @@ This project predicts hourly household energy consumption (`kWh`) using historic
 
 ## 👩‍💻 Author
 **Mahnoor Kokab**  
-3rd Semester – BS Computer Science  
+3rd Semester project– BS data science  
 University of Management and Technology (UMT), Lahore  
-Email: [Add your email here]
+
